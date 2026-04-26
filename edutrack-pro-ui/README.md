@@ -1,16 +1,36 @@
-# React + Vite
+📊 Trackify – Attendance Management System
+A full-stack application built using Spring Boot, Hibernate, MySql and React.js to efficiently manage and track attendance in real time.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🚀 Project Overview
+Trackify is a scalable attendance management system designed for organizations and educational institutions.
+It provides a secure and user-friendly platform to mark attendance, monitor records, and generate insights.
 
-Currently, two official plugins are available:
+✨ Features
+🔐 Secure User Authentication (JWT-based)
+📅 Mark & Manage Attendance
+📊 Dashboard with Real-Time Analytics
+👨‍💼 Admin Panel for User Management
+🔎 Attendance History Tracking
+📱 Fully Responsive UI
+⚡ REST API Integration
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🛠️ Tech Stack
+💻 Frontend
+React.js
+HTML5
+CSS3
+JavaScript
 
-## React Compiler
+⚙️ Backend
+Java
+Spring Boot
+Spring Security
+REST APIs
+🗄️ Database
+MySQL
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🧰 Tools
+Git & GitHub
+Postman
+VS Code
+Eclips IDE
